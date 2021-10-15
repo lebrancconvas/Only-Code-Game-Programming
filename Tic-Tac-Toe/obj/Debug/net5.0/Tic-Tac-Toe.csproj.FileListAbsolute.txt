@@ -1,0 +1,15 @@
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.deps.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.runtimeconfig.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.runtimeconfig.dev.json
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/ref/Tic-Tac-Toe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/bin/Debug/net5.0/Tic-Tac-Toe.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.csproj.AssemblyReference.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.AssemblyInfoInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.AssemblyInfo.cs
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/ref/Tic-Tac-Toe.dll
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.pdb
+/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Tic-Tac-Toe/obj/Debug/net5.0/Tic-Tac-Toe.genruntimeconfig.cache
