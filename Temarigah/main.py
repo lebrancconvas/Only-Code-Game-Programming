@@ -8,7 +8,7 @@ black = 0, 0, 0
 
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Temarigah") 
-logo = pygame.image.load('/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/Project/onlycodegame/Temarigah/sword.bmp') 
+logo = pygame.image.load('sword.bmp') 
 pygame.display.set_icon(logo) 
 
 while 1:
